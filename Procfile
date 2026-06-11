@@ -1,0 +1,1 @@
+worker: python bounty_notifier.py
